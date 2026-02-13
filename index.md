@@ -24,16 +24,7 @@ title: Community First Dayz
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   }
 
-  .hero-header {
-    background: #005588;
-    color: white;
-    padding: 5px 15px;
-    border-radius: 5px;
-    display: inline-block;
-    margin-bottom: 15px;
-    font-weight: bold;
-    text-transform: uppercase;
-  }
+
 
   h1, h2, h3 {
     color: #ff4444; /* Rustic Red */
