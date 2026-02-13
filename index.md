@@ -60,7 +60,7 @@ title: Community First Dayz
 </div>
 
 <div class="hero-card">
-  <div class="hero-header">Hero</div>
+  
   <h1>Welcome to the Community First DayZ Server!</h1>
   <p>
     This is more than just a place to play — it's a community-driven server 
