@@ -105,11 +105,10 @@ title: Support Us - Community First
   <p>Help keep the apocalypse alive! Donations go directly toward server costs and maintenance.</p>
   
   <div class="perks-list">
-    <h3 style="color: #ff4444; margin-top: 0;">Donator Perks:</h3>
+    <h2 style="color: #ff4444; margin-top: 0;">Donator Perks:</h2>
     <ul>
-      <li>Priority Queue Access</li>
       <li>Exclusive Discord Roles</li>
-      <li>Custom Map Markers</li>
+      <li>More to come once approved by dayz bohemia </li>
     </ul>
   </div>
 
