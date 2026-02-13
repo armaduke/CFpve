@@ -92,7 +92,7 @@ title: Support Us - Community First
 </style>
 
 <div class="nav-header">
-  <img src="CF%20zombie%20heart.jpg" height="60">
+  <img src="CFZombie 256.png" height="60">
   <div class="nav-links">
     <a href="index.html">HOME</a>
     <a href="rules.html">RULES</a>
