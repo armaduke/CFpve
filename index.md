@@ -53,10 +53,13 @@ title: Community First Dayz
   }
 </style>
 
-<div class="nav-links">
-  <a href="/">HOME</a>
-  <a href="/rules">RULES</a>
-  <a href="/donations">DONATIONS</a>
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 40px; background: rgba(0,0,0,0.7);">
+  <img src="CFZombie 256.png" height="60">
+  <div class="nav-links">
+    <a href="index.html">HOME</a>
+    <a href="rules.html">RULES</a>
+    <a href="donations.html">DONATIONS</a>
+  </div>
 </div>
 
 <div class="hero-card">
