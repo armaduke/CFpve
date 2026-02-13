@@ -6,7 +6,7 @@ title: Community First Dayz
 <style>
   body {
     background-color: #0a0a0a;
-    background-image: url('background'); /* Use the toxic zone background you saved */
+    background-image: url('background.png'); /* Use the toxic zone background you saved */
     background-size: cover;
     background-attachment: fixed;
     color: #e0e0e0;
