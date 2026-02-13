@@ -60,7 +60,7 @@ title: Community First Dayz
   <a href="/donations">DONATIONS</a>
 </div>
 
-<div class="hero-card">
+
   
   <h1>Welcome to the Community First DayZ Server!</h1>
   <p>
