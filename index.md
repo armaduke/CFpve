@@ -4,10 +4,9 @@ title: Community First Dayz
 ---
 
 <style>
-
   body {
     background-color: #0a0a0a;
-    background-image: url('background.png'); /* Use the toxic zone background you saved */
+    background-image: url('image_from_step_4.png'); /* Use the toxic zone background you saved */
     background-size: cover;
     background-attachment: fixed;
     color: #e0e0e0;
@@ -23,6 +22,7 @@ title: Community First Dayz
     margin: 50px 20px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   }
+
   .hero-header {
     background: #005588;
     color: white;
@@ -33,7 +33,6 @@ title: Community First Dayz
     font-weight: bold;
     text-transform: uppercase;
   }
-
 
   h1, h2, h3 {
     color: #ff4444; /* Rustic Red */
@@ -60,7 +59,7 @@ title: Community First Dayz
   <a href="/donations">DONATIONS</a>
 </div>
 
-
+<div class="hero-card">
   
   <h1>Welcome to the Community First DayZ Server!</h1>
   <p>
@@ -75,5 +74,5 @@ title: Community First Dayz
 </div>
 
 <div style="margin-top: 100px; font-size: 0.8em; color: #ff4444;">
-                     COMMUNITY FIRST - ALL RIGHTS RESERVED - DON'T JUST PLAY, JOIN!
+  COMMUNITY FIRST - ALL RIGHTS RESERVED - DON'T JUST PLAY, JOIN!
 </div>
