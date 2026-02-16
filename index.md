@@ -77,5 +77,5 @@ title: Community First Dayz
 </div>
 
 <div style="margin-top: 100px; font-size: 0.8em; color: #ff4444;">
-  COMMUNITY FIRST - ALL RIGHTS RESERVED - DON'T JUST PLAY, JOIN!
+  COMMUNITY FIRST PVE - DON'T JUST PLAY, JOIN!
 </div>
