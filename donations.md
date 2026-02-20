@@ -108,10 +108,10 @@ title: Support Us - Community First
     <h2 style="color: #ff4444; margin-top: 0;">Donator Perks:</h2>
     <ul>
       <li>Tier 1 – Survivor ($5/month) Survivor Title in Discord.</li>
-      <li>Tier 2 – Infected ($10/month) Infected title in Discord and One of any color DukesGhillies.
-          Tier 3 – Mutated ($15/month) Mutated title in Discord and two of any color DukesGhillies.
-          Tier 4 – Abomination ($20/month) Abomination title in Discord one of any color DukesGhillies and one DukesNBCClothingCase.
-                   Tier 5 – Horde ($40/month) Horde title in Discord. This covers you and four friends each Get one of DukesGhillies and one DukesNBCClothingCase.</li>
+      <li>Tier 2 – Infected ($10/month) Infected title in Discord and One of any color DukesGhillies.</li>
+      <li>Tier 3 – Mutated ($15/month) Mutated title in Discord and two of any color DukesGhillies.</li>
+      <li>Tier 4 – Abomination ($20/month) Abomination title in Discord one of any color DukesGhillies and one DukesNBCClothingCase.</li>
+      <li>Tier 5 – Horde ($40/month) Horde title in Discord. This covers you and four friends each Get one of DukesGhillies and one DukesNBCClothingCase.</li>
         
       
     </ul>
