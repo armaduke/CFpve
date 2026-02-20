@@ -74,6 +74,9 @@ title: Community First Dayz
     your voice matters. We can create something awesome. 
     Let's build this server together as a community.
   </p>
+  <a href="https://discord.gg/xsSCrDvmg8">
+  <img src="https://img.shields.io/badge/JOIN_US_ON_DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join our Discord" height="40">
+</a>
 </div>
 
 <div style="margin-top: 100px; font-size: 0.8em; color: #ff4444;">
