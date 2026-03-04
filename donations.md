@@ -108,11 +108,10 @@ title: Support Us - Community First
     <h2 style="color: #ff4444; margin-top: 0;">Donator Perks:</h2>
     <ul>
       <li>These perks do not affect gameplay.</li>
-      <li>Tier 1 – Survivor ($5/month) Survivor Title in Discord.</li>
-      <li>Tier 2 – Infected ($10/month) Infected title in Discord .</li>
-      <li>Tier 3 – Custom ($15/month) Custom name and color "Discord Title" This covers One person .</li>
-      <li>Tier 4 – Custom ($20/month) Custom name and color "Discord Title" This covers Two persons.</li>
-      <li>Tier 5 – Custom ($40/month) Custom name and color "Discord Title" This covers you and four friends.</li>
+      <li>Tier 1 – Infected ($10/month) Infected title in Discord .</li>
+      <li>Tier 2 – Custom ($15/month) Custom name and color "Discord Title" This covers One person .</li>
+      <li>Tier 3 – Custom ($20/month) Custom name and color "Discord Title" and voice channel This covers Two persons.</li>
+      <li>Tier 4 – Custom ($40/month) Custom name and color "Discord Title" and voice channel This covers four persons.</li>
       <li>Priority Queue to help get back into the server faster after restarts Or full queue server.</li>
       <li>Priority Queue One person ($20/month).</li>
       <li>Priority Queue Two person ($30/month).</li>
