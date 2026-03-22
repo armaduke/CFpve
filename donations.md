@@ -107,17 +107,18 @@ title: Support Us - Community First
   <div class="perks-list">
     <h2 style="color: #ff4444; margin-top: 0;">Donator Perks:</h2>
     <ul>
-      <li>These perks do not affect gameplay.</li>
-      <li>Tier 1 – Infected ($10/month) Infected title in Discord .</li>
-      <li>Tier 2 – Custom ($15/month) Custom name and color "Discord Title" This covers One person .</li>
-      <li>Tier 3 – Custom ($20/month) Custom name and color "Discord Title" and voice channel This covers Two persons.</li>
-      <li>Tier 4 – Custom ($40/month) Custom name and color "Discord Title" and voice channel This covers four persons.</li>
+      <li>We provide custom gear and retextures as a token of appreciation for our donors. All contributions and rewards strictly adhere to Bohemia Interactive’s monetization guidelines</li>
+      <li>All donor items are cosmetic only and provide no gameplay advantage. Every custom item is also made available in-game through normal progression.</li>
+      <li>Tier 1 – Infected ($10/month) Infected title in Discord.</li>
+      <li>Tier 2 – Mutated ($15/month) Any reskin color you like for the Custom Ghillie Suit. This covers One person.</li>
+      <li>Tier 3 – Abomination ($20/month) Any reskin color you like for the Custom Ghillie Suit and reskin color of the Nbc Case This covers One person.</li>
+      <li>Tier 4 – Horde ($40/month) Any reskin color you like for the Custom Ghillie Suit and reskin color of the Nbc Case This covers Three persons.</li>
       <li>Priority Queue to help get back into the server faster after restarts Or full queue server.</li>
-      <li>Priority Queue One person ($20/month).</li>
-      <li>Priority Queue Two person ($30/month).</li>
+      <li>Priority Queue One person ($10/month).</li>
+      <li>Priority Queue Two person ($20/month).</li>
        
       
-    </ul>
+   </ul>
   </div>
 
   <div class="button-group">
